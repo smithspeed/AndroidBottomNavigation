@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Kotlin"
+        android:icon="@drawable/ic_baseline_archive_24"
+        android:id="@+id/kotlinFragment"/>
+    <item android:title="Java"
+        android:icon="@drawable/ic_baseline_archive_24"
+        android:id="@+id/javaFragment"/>
+    <item
+        android:title="Flutter"
+        android:icon="@drawable/ic_baseline_archive_24"
+        android:id="@+id/flutterFragment"/>
+</menu>
